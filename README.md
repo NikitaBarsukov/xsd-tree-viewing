@@ -10,6 +10,6 @@ Used technologies:
 - MongoDB
 
 Additional Libs: 
--D3.js
--XPath
+- D3.js
+- XPath
 
