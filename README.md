@@ -2,7 +2,7 @@
 
 DELL:EMC summer pratice 2017.
 
-Client-server appliction which allow represent your XSD-file as tree in your browser. 
+Client-server appliction which allows represent your XSD-file as tree in your browser. 
 Used technologies:
 - Spring Boot
 - Bootstrap
